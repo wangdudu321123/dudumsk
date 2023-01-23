@@ -115,6 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673585942478</updated>
       <workItem from="1673585945739" duration="9957000" />
+      <workItem from="1674196521671" duration="42000" />
     </task>
     <servers />
   </component>
@@ -131,6 +132,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1673586842663">

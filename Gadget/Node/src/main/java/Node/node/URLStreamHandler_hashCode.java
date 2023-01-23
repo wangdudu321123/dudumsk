@@ -4,8 +4,8 @@ import java.io.IOException;
 import java.net.URL;
 import java.net.URLConnection;
 
-public class URLStreamHandler_node {
-    public static java.net.URLStreamHandler return_node(){
+public class URLStreamHandler_hashCode {
+    public static java.net.URLStreamHandler init_node(){
         java.net.URLStreamHandler handler = new SilentURLStreamHandler();
         return handler;
     }
